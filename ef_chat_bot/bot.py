@@ -1,6 +1,6 @@
 from aiogram import Dispatcher
 from dotenv import load_dotenv
-from project_name.lib import MyApp, MyHandler  # MyPlugin
+from ef_chat_bot.lib import MyApp, MyHandler  # MyPlugin
 
 from bot_lib import (
     BotConfig,
